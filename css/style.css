@@ -57,8 +57,32 @@ hr {
    border: 1px solid  #F7F8F9;
 
 }
-
 .test {
     width: 80%;
     margin: 10px auto;
 }
+
+div p{
+    margin: 15px auto;
+}
+
+
+.box-check {
+    color: #64C0A9 ;
+    border: 1px solid #64C0A9;
+    border-radius: 50%;
+    
+}
+.box-editorial {
+    font-size: 15px;
+    padding: 5px;
+    color: #FFFFFF;
+    border-radius: 30px;
+}
+
+.blu {
+    background-color: #47ACF2;
+}
+
+.purple {
+    background-color: #9B72E5 ;
