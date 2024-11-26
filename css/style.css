@@ -28,13 +28,13 @@ body {
 .container-80 {
     background-color: #FFFFFF;
     width: 80%;
-    margin: 0 auto;
+    margin: 10% auto;
 }
 
 section {
     background-color: #FFFFFF;
     width: 80%;
-    margin: 10% auto;
+    margin: 0 auto;
     padding: 10px;
 
 }
@@ -42,7 +42,6 @@ section div {
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
-    border-bottom: 1px solid #C5CBCF;
 }
 
 .box-task {
@@ -53,4 +52,13 @@ section div {
     background-color: #FFFFFF;
     border: 1px solid #C5CBCF;
     color: #C5CBCF;
+}
+hr {
+   border: 1px solid  #F7F8F9;
+
+}
+
+.test {
+    width: 80%;
+    margin: 10px auto;
 }
