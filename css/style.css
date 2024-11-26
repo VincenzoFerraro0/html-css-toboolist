@@ -28,7 +28,9 @@ body {
 .container-80 {
     background-color: #FFFFFF;
     width: 80%;
-    margin: 10% auto;
+    padding: 10px;
+    margin: 20px auto;
+    border-radius: 5px;
 }
 
 section {
@@ -40,8 +42,9 @@ section {
 }
 section div {
     display: inline-block;
-    padding: 10px;
+    padding: 5px;
     border-radius: 10px;
+    font-size: 20px;
 }
 
 .box-task {
@@ -64,7 +67,16 @@ hr {
 
 div p{
     margin: 15px auto;
+    font-size: 15px;
+    font-style: normal;
+    font-family: Roboto;
 }
+
+h3 {
+    font-family: Roboto;
+}
+
+
 
 
 .box-check {
@@ -97,4 +109,10 @@ div p{
 }
 .orange {
     background-color: #F29D34 ;
+}
+.pink {
+    background-color: #D962A0;
+}
+.lime {
+    background-color: #B0C925;
 }
