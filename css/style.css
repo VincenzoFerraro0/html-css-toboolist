@@ -71,7 +71,11 @@ div p{
     color: #64C0A9 ;
     border: 1px solid #64C0A9;
     border-radius: 50%;
-    
+}
+.box-cross{
+    color: #EB5852 ;
+    border: 1px solid #EB5852;
+    border-radius: 50%;
 }
 .box-editorial {
     font-size: 15px;
@@ -86,3 +90,11 @@ div p{
 
 .purple {
     background-color: #9B72E5 ;
+}
+
+.green {
+    background-color: #64C0A9;
+}
+.orange {
+    background-color: #F29D34 ;
+}
