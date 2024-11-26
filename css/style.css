@@ -7,6 +7,7 @@ header {
 header img {
     padding: 10px 0 10px 20px ;
     vertical-align: middle;
+    width: 80px;
 }
 
 header div {
@@ -14,8 +15,42 @@ header div {
     vertical-align: middle;
 }
 
+body {
+    background-color: #F7F8F9
+}
 #text-logo {
-    font-size: 25px ;
-    font-family: Roboto  ;
-    
+    font-size: 40px ;
+    font-family: Roboto;
+    font-weight: bold;
+    color: black;    
+}
+
+.container-80 {
+    background-color: #FFFFFF;
+    width: 80%;
+    margin: 0 auto;
+}
+
+section {
+    background-color: #FFFFFF;
+    width: 80%;
+    margin: 10% auto;
+    padding: 10px;
+
+}
+section div {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    border-bottom: 1px solid #C5CBCF;
+}
+
+.box-task {
+    background-color: #47ACF2;
+    color:#FFFFFF
+}
+.box-section{
+    background-color: #FFFFFF;
+    border: 1px solid #C5CBCF;
+    color: #C5CBCF;
 }
